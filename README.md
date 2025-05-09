@@ -1,2 +1,16 @@
-# Cookkey_foodPlanner
-A cross-platform Food Planner app built using Flutter that allows users to explore meals by category, area, or ingredient, save favorites, plan meals for the week, and operate in guest or offline mode. Integrated with TheMealDB API and Firebase for seamless user experience and data backup.
+# food_planner_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
